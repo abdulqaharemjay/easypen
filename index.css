@@ -1,0 +1,28 @@
+.nav-item {
+    border-bottom: 4px solid transparent;
+}
+
+.active-nav {
+    border-bottom: 4px solid #3725B4;
+}
+
+.sign-in {
+    color: #3725B4;
+}
+
+.sign-up {
+    background: #3725B4;
+}
+
+.vp {
+    background: url('main_bg.svg') no-repeat center center;
+    background-size: cover;
+}
+
+.bg-primary {
+    background: #3725B4;
+}
+
+.border-color {
+    border: 2px solid #3725B4;
+}
